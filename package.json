@@ -20,7 +20,8 @@
     "cookie-parser": "^1.4.3",
     "ejs": "latest",
     "express": "^4.15.3",
-    "express-session": "^1.15.3",
     "morgan": "^1.8.2"
+    "express-session": "^1.15.3",
+    "mongoose": "^4.11.3"    
   }
 }
