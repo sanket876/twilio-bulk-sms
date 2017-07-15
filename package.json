@@ -1,0 +1,24 @@
+{
+  "name": "twilio-bulk-sms",
+  "version": "1.0.0",
+  "description": "Twilio Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanket876/twilio-bulk-sms.git"
+  },
+  "author": "Sanket Gandhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanket876/twilio-bulk-sms/issues"
+  },
+  "homepage": "https://github.com/sanket876/twilio-bulk-sms#readme",
+  "dependencies": {
+    "ejs": "latest",
+    "express": "^4.15.3",
+    "morgan": "^1.8.2"
+  }
+}
